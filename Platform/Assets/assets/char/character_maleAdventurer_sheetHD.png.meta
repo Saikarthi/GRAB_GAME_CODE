@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: e8e5de7f85f97bc44a9be499c78c6a06
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character_maleAdventurer_sheetHD_0
+    21300002: character_maleAdventurer_sheetHD_1
+    21300004: character_maleAdventurer_sheetHD_2
+    21300006: character_maleAdventurer_sheetHD_3
+    21300008: character_maleAdventurer_sheetHD_4
+    21300010: character_maleAdventurer_sheetHD_5
+    21300012: character_maleAdventurer_sheetHD_6
+    21300014: character_maleAdventurer_sheetHD_7
+    21300016: character_maleAdventurer_sheetHD_8
+    21300018: character_maleAdventurer_sheetHD_9
+    21300020: character_maleAdventurer_sheetHD_10
+    21300022: character_maleAdventurer_sheetHD_11
+    21300024: character_maleAdventurer_sheetHD_12
+    21300026: character_maleAdventurer_sheetHD_13
+    21300028: character_maleAdventurer_sheetHD_14
+    21300030: character_maleAdventurer_sheetHD_15
+    21300032: character_maleAdventurer_sheetHD_16
+    21300034: character_maleAdventurer_sheetHD_17
+    21300036: character_maleAdventurer_sheetHD_18
+    21300038: character_maleAdventurer_sheetHD_19
+    21300040: character_maleAdventurer_sheetHD_20
+    21300042: character_maleAdventurer_sheetHD_21
+    21300044: character_maleAdventurer_sheetHD_22
+    21300046: character_maleAdventurer_sheetHD_23
+    21300048: character_maleAdventurer_sheetHD_24
+    21300050: character_maleAdventurer_sheetHD_25
+    21300052: character_maleAdventurer_sheetHD_26
+    21300054: character_maleAdventurer_sheetHD_27
+    21300056: character_maleAdventurer_sheetHD_28
+    21300058: character_maleAdventurer_sheetHD_29
+    21300060: character_maleAdventurer_sheetHD_30
+    21300062: character_maleAdventurer_sheetHD_31
+    21300064: character_maleAdventurer_sheetHD_32
+    21300066: character_maleAdventurer_sheetHD_33
+    21300068: character_maleAdventurer_sheetHD_34
+    21300070: character_maleAdventurer_sheetHD_35
+    21300072: character_maleAdventurer_sheetHD_36
+    21300074: character_maleAdventurer_sheetHD_37
+    21300076: character_maleAdventurer_sheetHD_38
+    21300078: character_maleAdventurer_sheetHD_39
+    21300080: character_maleAdventurer_sheetHD_40
+    21300082: character_maleAdventurer_sheetHD_41
+    21300084: character_maleAdventurer_sheetHD_42
+    21300086: character_maleAdventurer_sheetHD_43
+    21300088: character_maleAdventurer_sheetHD_44
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1024
+        width: 134
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b64bbeabb8094686747f72102a33a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1025
+        width: 163
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88124e1f55d83f54ebc2242a6ab04fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1026
+        width: 183
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09112f983dc799e43865a3f83b846da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1024
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04715b6f9bdc6f42bdf1756b449cc49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1029
+        width: 190
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd4479879b73a24ebb87fcf1c35b6e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1024
+        width: 139
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf621fe7fd536f4d9e10395cd6d47cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_6
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1024
+        width: 139
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0262850a29c33c47814f6816cfca930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_7
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1024
+        width: 157
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c35f54d82cae47a6da0fe27aeeb8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_8
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1030
+        width: 157
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0669923b48f8b24282495299351d4ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 768
+        width: 134
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f778d518c4e6a6468f5ed3b67066648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 769
+        width: 181
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f111b75e5886640a598b8e14832c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 768
+        width: 173
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f7c0e24d233646a36f843932c0a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_12
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 768
+        width: 171
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb9f6c891b16704da80c74ab30a3eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 768
+        width: 174
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c02ebafb6ad543a0d1515462aa870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_14
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 768
+        width: 180
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502ce275c2c0d244bc11ef1af50b850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_15
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 768
+        width: 113
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c2fe90a8828b469c2c62f9954f4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_16
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 769
+        width: 147
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286eb922b3f5c3458ed0acaac8eeda1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_17
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 772
+        width: 148
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f6f163f263934b93e9fde5e089d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 512
+        width: 158
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cccdd79cf3613a448934f547eccfeae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 519
+        width: 171
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfe9d72650e344a85f3f6401d6dc9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 516
+        width: 148
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64637c3678398794599aff25636a9f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 512
+        width: 123
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e993c882583bbc64b9ac6343d70c17b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 512
+        width: 142
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92de74c32269f9488d544fe700b3323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_23
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 512
+        width: 114
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b41e9f6d76ae2543b2ce2660a32d6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_24
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 512
+        width: 152
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46fae7bafdf7f408ca0a0847cb2967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_25
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 513
+        width: 167
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ffbe5b55b089840a5692a476ec2d04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_26
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 523
+        width: 190
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3d090e445eb847b83e7aac5a9cc3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 170
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e00f658cef5d9d4895b3dd3e87112dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 162
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dca426e7d40f440ac5fd0e7339f054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 256
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca4e66dcf2fa64697f86e9296ac6c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_30
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 256
+        width: 131
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884f5f18cf0d364d9e5fba51fa8f18b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_31
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 256
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7382982e3efc4596b5381b8024d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 256
+        width: 119
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2a40bdb67a3445a5be60760eeb350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_33
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 266
+        width: 186
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e4d2a321b1134796a3362a5164079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_34
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 256
+        width: 186
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a495cfa616d17c489b04a656ae76fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_35
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 272
+        width: 157
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bebe1726cdff8409e8048de1cfc9db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2
+        width: 148
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd08c2f2aea66d4cbe309969531040b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 136
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1440b4ef1001448880b131a0e428c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 122
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81921d280422fb8499229a267064e53a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 130
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a990d9fa23aa94e92fafe17f7d4af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_40
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 149
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce7a6c67d1fda4ab020a19f1e30ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_41
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 0
+        width: 138
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854358b4340264440bc4264b33f0baae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_42
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 0
+        width: 122
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202af4ee496ba348885be56b94faa39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_43
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 0
+        width: 133
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c98e81141d6824a80d10361da7222c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_maleAdventurer_sheetHD_44
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 41
+        width: 189
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e50ac40c2ff454f8eb6ce4c94c3d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb7c23251993bdf4699475551b961ee6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
