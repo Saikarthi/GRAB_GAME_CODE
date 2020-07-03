@@ -15,4 +15,19 @@ public class JUMP : MonoBehaviour
     {
         
     }
+
+
+
+
+
+    public void flip(float ha)
+    {
+        if (ha > 0 && !flipright || ha < 0 && flipright)
+        {
+            flipright = !flipright;
+            Vector2 thescale = transform.localScale;
+            thescale.x *= -1;
+            transform.localScale = thescale;
+        }
+    }
 }
