@@ -5,7 +5,7 @@ using UnityEngine;
 public class enemy : MonoBehaviour
 {
     public float speed;
-    public Rigidbody2D rb;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +16,6 @@ public class enemy : MonoBehaviour
     void Update()
     {
        Vector3 v = new Vector3(-1,0,0);
-            this.transform.position += speed * v;
+            this.transform.position += speed * v * Time.deltaTime;
     }
 }
