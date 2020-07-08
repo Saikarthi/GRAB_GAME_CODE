@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class CHANGE : MonoBehaviour
 {
+    private enemy e;
+
+    public Sprite good;
+       public Sprite bad;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,10 +21,19 @@ public class CHANGE : MonoBehaviour
         
     }
     private void OnTriggerEnter2D(Collider2D other) {
-        Debug.Log(other.transform.name);
-        if(other.transform.tag!="Player")
+       
+        if(other.transform.tag!="player")
         {
-            Destroy(other.gameObject);
+            if(other.transform.tag=="good")
+            {
+                e =other.gameObject.GetComponent<enemy>();
+                e.change(good);
+            }
+          if(other.transform.tag=="bad")
+            {
+                e =other.gameObject.GetComponent<enemy>();
+                e.change(bad);
+            }
         }
     }
 }
