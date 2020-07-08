@@ -9,7 +9,7 @@ public class spwan : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("st",1f,2f);
+        InvokeRepeating("st",1f,1.7f);
     }
 
 
