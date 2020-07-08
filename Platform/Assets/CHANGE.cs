@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class player_collide : MonoBehaviour
+public class CHANGE : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,10 @@ public class player_collide : MonoBehaviour
         
     }
     private void OnTriggerEnter2D(Collider2D other) {
-       
+        
+        if(other.transform.tag!="Player")
+        {
+            
+        }
     }
 }
