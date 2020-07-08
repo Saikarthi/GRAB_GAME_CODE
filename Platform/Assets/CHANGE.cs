@@ -16,10 +16,10 @@ public class CHANGE : MonoBehaviour
         
     }
     private void OnTriggerEnter2D(Collider2D other) {
-        
+        Debug.Log(other.transform.name);
         if(other.transform.tag!="Player")
         {
-            
+            Destroy(other.gameObject);
         }
     }
 }
