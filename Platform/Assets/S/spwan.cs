@@ -5,6 +5,7 @@ using UnityEngine;
 public class spwan : MonoBehaviour
 {
     public GameObject[] g;
+    private int next=0, ran;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,8 +15,17 @@ public class spwan : MonoBehaviour
 
      void st() 
     {
-        int ran = Random.Range(0,4);
-            Instantiate(g[ran],this.transform.position,Quaternion.identity);
+        
+        ran = Random.Range(0,4);
+        if(ran==next)
+        {
+             int ran = Random.Range(0,4);
+        }
+        next = ran;
+
+         GameObject game =   Instantiate(g[ran],this.transform.position,Quaternion.identity);
+
+         Destroy(game,10f);
     }
     
 }
