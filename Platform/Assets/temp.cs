@@ -25,11 +25,11 @@ public class temp : MonoBehaviour
             heath =50;
         }
       slider.value =heath / 50;
-         Debug.Log(heath);
+    
     }
     private void OnTriggerEnter2D(Collider2D other) 
     {
-   //  Debug.Log(other.transform.tag);
+     Debug.Log(other.transform.tag);
        
        if(other.transform.tag=="good")
        {
