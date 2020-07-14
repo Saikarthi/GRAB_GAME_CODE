@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class gameover : MonoBehaviour
 {
-    public GameObject game;
+    public GameObject game ,h;
     public temp t;
     // Start is called before the first frame update
     void Start()
@@ -16,10 +16,11 @@ public class gameover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(t.heath<=0)
+        if(t.check)
         {
            
             game.SetActive(true);
+            h.SetActive(false);
         }
 
     }

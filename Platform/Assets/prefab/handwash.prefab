@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 474536062261367987}
   - component: {fileID: 474536062261367950}
   - component: {fileID: 3873492447174794650}
+  - component: {fileID: 1109467857715419382}
   m_Layer: 0
   m_Name: handwash
   m_TagString: good
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 474536062261367985}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4.27, y: -0.54, z: 0}
-  m_LocalScale: {x: 0.1689124, y: 0.16891243, z: 0.11780476}
+  m_LocalScale: {x: 0.29142928, y: 0.2914293, z: 0.20325182}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -48,6 +49,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -59,6 +61,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -71,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: -168399589
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 50f098f44e3cb4344a05af556c1a6709, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2ba5ef3f67e5dde48ad9808a37ed4c43, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -95,9 +98,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.17640603, y: -0.061883718}
+  m_Offset: {x: 0.0017875506, y: 0.023861958}
   serializedVersion: 2
-  m_Radius: 4.80656
+  m_Radius: 2.076101
 --- !u!114 &474536062261367950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -131,3 +134,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!58 &1109467857715419382
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 474536062261367985}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0017875506, y: 0.023861958}
+  serializedVersion: 2
+  m_Radius: 2.076101
