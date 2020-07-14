@@ -42,6 +42,14 @@ public class JUMP : MonoBehaviour
         {
             anim.SetBool("idel",true);
         }
+        if(istouchground==true)
+        {
+            anim.SetBool("run",true);
+        }
+         if(istouchground==false)
+        {
+            anim.SetBool("run",false);
+        }
         
         
         

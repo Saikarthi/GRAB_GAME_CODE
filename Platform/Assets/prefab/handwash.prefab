@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 474536062261367987}
   - component: {fileID: 474536062261367950}
   - component: {fileID: 3873492447174794650}
-  - component: {fileID: 1109467857715419382}
   m_Layer: 0
   m_Name: handwash
   m_TagString: good
@@ -134,19 +133,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &1109467857715419382
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 474536062261367985}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0017875506, y: 0.023861958}
-  serializedVersion: 2
-  m_Radius: 2.076101
