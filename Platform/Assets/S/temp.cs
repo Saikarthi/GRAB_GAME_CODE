@@ -12,13 +12,14 @@ public class temp : MonoBehaviour
     public float startTime;
      public TextMeshProUGUI text,time;
      public bool check;
+     public GameObject good,bad;
      
     // Start is called before the first frame update
     void Start()
     {
         heath =0;
         check =false;
-        gameTime = 120;
+        gameTime = 60;
     }
      void Awake()
          {
@@ -56,12 +57,24 @@ public class temp : MonoBehaviour
        
        if(other.transform.tag=="good")
        {
+           good.SetActive(true);
            heath += 100;
+           Invoke("go",0.5f);
        }
        if(other.transform.tag=="bad")
        {
+           bad.SetActive(true);
            heath -= 50;
+        Invoke("ba",0.5f);
        }
        
+    }
+    void go()
+    {
+        good.SetActive(false);
+    }
+    void ba()
+    {
+        bad.SetActive(false);
     }
 }

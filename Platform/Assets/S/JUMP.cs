@@ -26,7 +26,7 @@ public class JUMP : MonoBehaviour
        
         istouchground = Physics2D.OverlapCircle(groundcheckpoint.position, radius, groundlayer);
         
-        if (Input.GetButton("Jump") && istouchground)
+        if ((Input.GetButton("Jump")||Input.GetMouseButtonDown(0)) && istouchground)
         {
             isjump=true;
             
