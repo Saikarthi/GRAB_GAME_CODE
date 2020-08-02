@@ -24,6 +24,11 @@ public class LockPanelScript : MonoBehaviour
                
 
             }
+            else if(codeField.text.Equals("TAMIL"))
+            {
+                  SceneManager.LoadScene(2);
+            }
+          
             else
             {
                 //wrong pass code

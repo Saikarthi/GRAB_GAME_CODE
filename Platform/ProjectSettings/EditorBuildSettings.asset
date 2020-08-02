@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MAIN.unity
     guid: fbc36a9cc71d9b245b456722b66980be
+  - enabled: 1
+    path: Assets/Scenes/tamil.unity
+    guid: 1420794eec40b7d4b8b7e97a6920a0a9
   m_configObjects: {}
