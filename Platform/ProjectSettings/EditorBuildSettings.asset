@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tamil.unity
     guid: 1420794eec40b7d4b8b7e97a6920a0a9
+  - enabled: 1
+    path: Assets/Scenes/kannada.unity
+    guid: 5ff5cb82584a90a4a8fc881533c490b4
   m_configObjects: {}

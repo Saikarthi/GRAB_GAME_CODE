@@ -28,6 +28,10 @@ public class LockPanelScript : MonoBehaviour
             {
                   SceneManager.LoadScene(2);
             }
+            else if(codeField.text.Equals("KANHIT"))
+            {
+                  SceneManager.LoadScene(3);
+            }
           
             else
             {
