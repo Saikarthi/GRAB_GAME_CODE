@@ -32,6 +32,10 @@ public class LockPanelScript : MonoBehaviour
             {
                   SceneManager.LoadScene(3);
             }
+            else if(codeField.text.Equals("HINDI"))
+            {
+                  SceneManager.LoadScene(4);
+            }
           
             else
             {

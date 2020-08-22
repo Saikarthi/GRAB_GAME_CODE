@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/p_kannada 1.unity
     guid: aca8f18081cfc8a439f863e217dffb11
+  - enabled: 1
+    path: Assets/Scenes/p_HIN.unity
+    guid: 11fbe599415773b4a818fe3d3415609e
   m_configObjects: {}
