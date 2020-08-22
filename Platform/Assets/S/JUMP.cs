@@ -21,7 +21,7 @@ public class JUMP : MonoBehaviour
     
    
    
-    void FixedUpdate()
+    void Update()
     {
        
         istouchground = Physics2D.OverlapCircle(groundcheckpoint.position, radius, groundlayer);
