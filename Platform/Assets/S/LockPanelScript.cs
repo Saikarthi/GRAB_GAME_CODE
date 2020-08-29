@@ -17,7 +17,7 @@ public class LockPanelScript : MonoBehaviour
     {
         if (codeField.text != null)
         {
-            if (codeField.text.Equals("HATHL") || codeField.text.Equals("MAJPT"))//Changed the code based on your clients/requirement..
+            if (codeField.text.Equals("ENGLISH") || codeField.text.Equals("MAJPT"))//Changed the code based on your clients/requirement..
             {
                 //start the game 
                 SceneManager.LoadScene(1);
@@ -28,7 +28,7 @@ public class LockPanelScript : MonoBehaviour
             {
                   SceneManager.LoadScene(2);
             }
-            else if(codeField.text.Equals("KANHIT"))
+            else if(codeField.text.Equals("KANNADA"))
             {
                   SceneManager.LoadScene(3);
             }
